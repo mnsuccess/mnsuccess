@@ -7,13 +7,15 @@
         
    </p>
 
-I am a passionate Full Stack Software Developer and Technical Writer with expertise in Web Apps Development, Microservices and Cloud-Native Apps Development. I am also an Huge fan of ML-DL-AIoT and open-source cultures.
+👋 Hi there! I'm a passionate Full Stack Software Developer and Cloud Solutions Architect with expertise in web application development, microservices, and cloud-native solutions. I’m driven by innovation and thrive on building scalable, efficient systems that solve real-world problems.
 
-I enjoy exploring technologies, coding open source and enterprise projects, teaching, speaking and writing about tech.
+✨ Over the past 5+ years, I’ve worked with diverse global teams, delivering impactful solutions while embracing cultural diversity. My journey has sharpened my skills in collaboration, leadership, and creating systems that align with both technical and business goals.
 
-All the years that I’ve spent within different international teams I’ve had a chance to be a witness of it. Within this period I understand the diﬀerences of the nuances, learned to adopt and most importantly appreciated the diversity. This appreciation enhanced my vision and showed me the way of improve both my technical and soft skills.
+💼 As I continue to grow, I’m expanding my focus to include project leadership—bringing teams together to successfully execute complex initiatives. Combining technical expertise with emerging management skills, I aim to create value at every step.
 
-If you are looking for someone who has 5+ year experience, who appreciates the diversity, who is the both seeker and the early adaptor of the new technologies, let’s have a talk.
+🤝 I’m always eager to connect with like-minded professionals and collaborate on impactful projects. Whether it’s architecting cloud solutions, streamlining workflows, or tackling exciting challenges, I’d love to discuss how we can create meaningful solutions together.
+
+📩 Let’s connect and explore how we can make an impact!
 
 ---
 
@@ -24,7 +26,6 @@ If you are looking for someone who has 5+ year experience, who appreciates the d
 <img  alt="fastapi" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"/> 
 <img alt="typescript" width="60px" 
 style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/> 
-<img alt="adonisjs" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"/>
 <img alt="nestjs" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"/>
 <img alt="java" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> 
 <img  alt="sprin" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg"/> 
@@ -42,8 +43,6 @@ style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
 <img alt="terraform" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"/> 
 <img  alt="docker" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"/> 
 <img  alt="kubernetes" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg"/> 
-<img  alt="prometheus" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original-wordmark.svg"/> 
-<img  alt="Grafana" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg"/> 
 <img  alt="amazonwebservices" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"/> 
 <br />
 
@@ -56,10 +55,8 @@ style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/ic
 <img alt="javascript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 <img alt="typescript" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
 <img alt="react" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img alt="redux" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"/>
 <img alt="nextjs" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"/>
-<img alt="angular" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-<img alt="Flutter" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
+<img alt="aws-amplify" width="60px" style="padding-right:10px;" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/logo-amplify.svg"/>
 <br />
 
 ---
