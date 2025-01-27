@@ -12,10 +12,10 @@ I am a Full Stack Software Developer with expertise in Web Applications, Cloud S
 
 What I Do
 
-🚀 Build Scalable Applications: From front-end interfaces to back-end architecture, I craft reliable, user-friendly, and high-performance solutions for businesses of all sizes.
-☁️ Cloud Solutions Expertise: I design and implement secure, cloud-based systems that streamline operations and improve scalability.
-🌐 Open-Source Enthusiast: I actively contribute to and support open-source communities, collaborating to drive innovation and share knowledge.
-🤝 Team Collaboration: I thrive in diverse, international teams, bringing a mix of technical expertise and adaptability to every project.
+- 🚀 Build Scalable Applications: From front-end interfaces to back-end architecture, I craft reliable, user-friendly, and high-performance solutions for businesses of all sizes.
+- ☁️ Cloud Solutions Expertise: I design and implement secure, cloud-based systems that streamline operations and improve scalability.
+- 🌐 Open-Source Enthusiast: I actively contribute to and support open-source communities, collaborating to drive innovation and share knowledge.
+- 🤝 Team Collaboration: I thrive in diverse, international teams, bringing a mix of technical expertise and adaptability to every project.
 
 Why Connect with Me?
 
