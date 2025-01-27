@@ -6,18 +6,9 @@
      
         
    </p>
-👋 Hi, I’m a Full Stack Software Developer with expertise in Web Applications, Cloud Solutions, and Open-Source Development. While my professional focus lies in creating robust, scalable, and cloud-native solutions, I’m also deeply passionate about exploring Artificial Intelligence (AI) and the Internet of Things (IoT)—technologies I believe are shaping the future.
+👋 I’m a Full Stack Software Developer with 5+ years of experience building scalable 🚀 web apps and cloud solutions, while also exploring project management to deliver impactful results. I’m also passionate about  Artificial Intelligence (AI) and the Internet of Things (IoT)—technologies, and contributing to the open-source ecosystem.
 
-What I Do
-
-- 🚀 Build Scalable Applications: From front-end interfaces to back-end architecture, I craft reliable, user-friendly, and high-performance solutions for businesses of all sizes.
-- ☁️ Cloud Solutions Expertise: I design and implement secure, cloud-based systems that streamline operations and improve scalability.
-- 🌐 Open-Source Enthusiast: I actively contribute to and support open-source communities, collaborating to drive innovation and share knowledge.
-- 🤝 Team Collaboration: I thrive in diverse, international teams, bringing a mix of technical expertise and adaptability to every project.
-
-Why Connect with Me?
-
-I’m passionate about solving real-world problems through technology, whether by building impactful applications, diving into the possibilities of AI and IoT, or contributing to the open-source ecosystem. If you’re looking for someone with 5+ years of experience who values innovation, collaboration, and continuous learning, I’d love to connect and explore opportunities to work together.
+If you’re looking for a developer who combines technical expertise with a growing focus  on solving real-world problems, let’s connect!
 
 ---
 
