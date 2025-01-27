@@ -6,9 +6,7 @@
      
         
    </p>
-👋 Hi, I’m Manasse Ngudia!
-
-I am a Full Stack Software Developer with expertise in Web Applications, Cloud Solutions, and Open-Source Development. While my professional focus lies in creating robust, scalable, and cloud-native solutions, I’m also deeply passionate about exploring Artificial Intelligence (AI) and the Internet of Things (IoT)—technologies I believe are shaping the future.
+👋 Hi, I’m a Full Stack Software Developer with expertise in Web Applications, Cloud Solutions, and Open-Source Development. While my professional focus lies in creating robust, scalable, and cloud-native solutions, I’m also deeply passionate about exploring Artificial Intelligence (AI) and the Internet of Things (IoT)—technologies I believe are shaping the future.
 
 What I Do
 
